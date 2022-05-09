@@ -2,7 +2,22 @@
     "name": "color-blind-themes",
     "displayName": "Color Blind Themes",
     "description": "Perfect VSCode Themes for Color Blind Developers",
-    "version": "0.0.1",
+    "version": "1.0.0",
+	"publisher": "Goofygoobers",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/goofygoobers/color-blind-vscode-theme.git"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"color blind",
+		"red green color blindess",
+		"deuteranopia",
+		"protanopia",
+		"protanomaly",
+		"deuteranomaly"
+	],
     "engines": {
         "vscode": "^1.67.0"
     },
