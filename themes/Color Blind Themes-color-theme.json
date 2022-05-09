@@ -2,6 +2,12 @@
 	"name": "Color Blind Theme",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"version": "1.0.0",
+	"publisher": "Goofygoobers",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/goofygoobers/color-blind-vscode-theme.git"
+	},
 	"colors": {
     "foreground": "#e6e6e6",
     "editorLink.activeForeground": "#ff5c57",
