@@ -1,0 +1,21 @@
+{
+    "name": "color-blind-themes",
+    "displayName": "Color Blind Themes",
+    "description": "Perfect VSCode Themes for Color Blind Developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Color Blind Themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Color Blind Themes-color-theme.json"
+            }
+        ]
+    }
+}
