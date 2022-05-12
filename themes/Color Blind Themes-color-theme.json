@@ -47,6 +47,8 @@
     "sideBar.background": "#282a36",
     "tab.inactiveBackground": "#282a36",
     "tab.activeBackground": "#1c1e27",
+    "tab.activeBorderTop": "#FFFF00",
+    "tab.activeBorder": "#FFFF00",
     "editorGroup.dropBackground": "#232631",
     "editorGroupHeader.tabsBackground": "#232631",
     "titleBar.activeBackground": "#20212b"
