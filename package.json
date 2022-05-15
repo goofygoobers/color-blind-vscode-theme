@@ -2,7 +2,7 @@
     "name": "color-blind-themes",
     "displayName": "Color Blind Themes",
     "description": "Perfect VSCode Themes for Color Blind Developers",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "Goofygoobers",
     "repository": {
         "type": "git",
