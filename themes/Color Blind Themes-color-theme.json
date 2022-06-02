@@ -52,13 +52,19 @@
     "tab.activeBorder": "#FFFF00",
     "editorGroup.dropBackground": "#232631",
     "editorGroupHeader.tabsBackground": "#232631",
-    "titleBar.activeBackground": "#20212b"
+    "titleBar.activeBackground": "#20212b",
+    "minimap.findMatchHighlight": "#0000ff",
+    "minimap.selectionHighlight": "#0000ff",
+    "minimap.errorHighlight": "#f70d1a",
+    "minimap.warningHighlight": "#ffff00",
+    "editorError.foreground": "#f70d1a",
+
   },
   "tokenColors": [
     {
       "name": "Global settings",
       "settings": {
-        "background": "#20212b",
+        "background": "#232631",
         "foreground": "#e6e6e6"
       }
     },
